@@ -1,0 +1,1243 @@
+11/03/2025 McMurry                 55 Abilene Christian       92    
+11/03/2025 James Madison           71 Akron                   85    
+11/03/2025 North Dakota            62 Alabama                 91    
+11/03/2025 Blue Mountain           60 Alabama A&M             80    
+11/03/2025 Florida                 87 Arizona                 93 N   Las Vegas, NV
+11/03/2025 Southern                77 Arkansas               109    
+11/03/2025 SUNY Maritime           49 Army                    73    
+11/03/2025 Bethune Cookman         90 Auburn                  95 1  
+11/03/2025 Bryan                   47 Austin Peay            128    
+11/03/2025 Louisiana               64 Ball St.                75    
+11/03/2025 UT Rio Grande Valley    81 Baylor                  96    
+11/03/2025 Air Force               63 Belmont                 79    
+11/03/2025 Hawaii Pacific          79 Boise St.               78    
+11/03/2025 Texas St.               48 Bowling Green           83    
+11/03/2025 Delaware                70 Bucknell                78    
+11/03/2025 Southern Miss           79 Buffalo                 85    
+11/03/2025 Villanova               66 BYU                     71 N   Las Vegas, NV
+11/03/2025 USC Upstate             75 Cal Baptist             87    
+11/03/2025 Cal Tech                82 Cal St. Fullerton      136    
+11/03/2025 Cal St. Bakersfield     60 California              87    
+11/03/2025 NVU Johnson             55 Central Connecticut    117    
+11/03/2025 Appalachian St.         66 Central Michigan        82    
+11/03/2025 Tusculum                58 Charleston              79    
+11/03/2025 Indiana St.             76 Charlotte               92    
+11/03/2025 Union                   39 Chattanooga             92    
+11/03/2025 Western Carolina        63 Cincinnati              94    
+11/03/2025 New Hampshire           38 Clemson                 88    
+11/03/2025 Montana St.             78 Colorado                84    
+11/03/2025 Incarnate Word          64 Colorado St.            98    
+11/03/2025 New Haven               55 Connecticut             79    
+11/03/2025 Nobel                   58 CSUN                    99    
+11/03/2025 DeSales                 63 Davidson                97    
+11/03/2025 Canisius                48 Dayton                  88    
+11/03/2025 Chicago St.             62 DePaul                  92    
+11/03/2025 Northern Arizona        71 Drake                   77 N   Sioux Falls, SD
+11/03/2025 Widener                 59 Drexel                  93    
+11/03/2025 Niagara                 63 Duquesne                83    
+11/03/2025 Arlington Baptist       60 East Texas A&M         119    
+11/03/2025 Georgia St.             49 Eastern Michigan        71    
+11/03/2025 Florida National        49 FIU                    101    
+11/03/2025 Boston College          78 Florida Atlantic        83 1  
+11/03/2025 New College of Florida  60 Florida Gulf Coast      96    
+11/03/2025 Fresno Pacific          51 Fresno St.              88    
+11/03/2025 High Point              97 Furman                  71 N   Rock Hill, SC
+11/03/2025 Wofford                 46 George Mason            70    
+11/03/2025 Maine                   47 George Washington       67    
+11/03/2025 Morgan St.              70 Georgetown              87    
+11/03/2025 Bellarmine              59 Georgia                104    
+11/03/2025 Maryland Eastern Shore  52 Georgia Tech            56 1  
+11/03/2025 Texas Southern          43 Gonzaga                 98    
+11/03/2025 Huston Tillotson        47 Grambling St.           91    
+11/03/2025 Purdue Fort Wayne       71 Grand Canyon            90    
+11/03/2025 Lehigh                  57 Houston                 75    
+11/03/2025 Southern Arkansas       70 Houston Christian       74    
+11/03/2025 Missouri                88 Howard                  67    
+11/03/2025 Jackson St.             55 Illinois               113    
+11/03/2025 Detroit Mercy           71 Illinois Chicago        91    
+11/03/2025 Fairleigh Dickinson     50 Iowa St.                88    
+11/03/2025 Oakwood                 63 Jacksonville St.       117    
+11/03/2025 Green Bay               51 Kansas                  94    
+11/03/2025 Evangel                 74 Kansas City             80    
+11/03/2025 Paine                   29 Kennesaw St.           105    
+11/03/2025 Troy                   103 Kent St.                97 1  
+11/03/2025 Texas A&M San Antonio   53 Lamar                   93    
+11/03/2025 SUNY Cobleskill         50 Le Moyne                94    
+11/03/2025 Kentucky Christian      57 Liberty                 98    
+11/03/2025 Mary Baldwin            55 Longwood                92    
+11/03/2025 South Carolina St.      45 Louisville             104    
+11/03/2025 Cleveland St.           88 Loyola Chicago          91    
+11/03/2025 Lincoln CA              54 Loyola Marymount       137    
+11/03/2025 Towson                  67 Loyola MD               56 N   Baltimore, MD
+11/03/2025 Albany                  53 Marquette               80    
+11/03/2025 Coppin St.              61 Maryland                83 N   Baltimore, MD
+11/03/2025 Marshall                78 Massachusetts           72    
+11/03/2025 Champion Christian      65 McNeese                127    
+11/03/2025 Jacksonville            69 Miami FL                86    
+11/03/2025 Old Dominion            72 Miami OH                87    
+11/03/2025 Oakland                 78 Michigan               121    
+11/03/2025 Colgate                 69 Michigan St.            80    
+11/03/2025 Hampton                 86 Milwaukee               90    
+11/03/2025 Gardner Webb            60 Minnesota               87    
+11/03/2025 Southeastern Louisiana  58 Mississippi             88    
+11/03/2025 Northwest Indian        41 Montana                106    
+11/03/2025 Midway                  84 Morehead St.            89    
+11/03/2025 North Carolina Central  66 N.C. State             114    
+11/03/2025 West Georgia            53 Nebraska                86    
+11/03/2025 Murray St.              85 Nebraska Omaha          77 N   Sioux Falls, SD
+11/03/2025 Washington Adventist    76 Norfolk St.             98    
+11/03/2025 Central Arkansas        54 North Carolina          94    
+11/03/2025 New Mexico Highlands    54 North Texas             88    
+11/03/2025 Boston University       76 Northeastern            75 1  
+11/03/2025 Colorado College        57 Northern Colorado       91    
+11/03/2025 Louisiana Monroe        82 Northern Illinois      102    
+11/03/2025 Cincinnati Clermont     69 Northern Kentucky      126    
+11/03/2025 Mercyhurst              47 Northwestern            70    
+11/03/2025 LIU                     67 Notre Dame              89    
+11/03/2025 Arkansas St.            89 Ohio                    85    
+11/03/2025 IU Indy                102 Ohio St.               118    
+11/03/2025 Saint Francis           66 Oklahoma               102    
+11/03/2025 North Dakota St.        65 Oregon St.              67    
+11/03/2025 Fairfield               68 Penn St.                76    
+11/03/2025 Life Pacific            80 Pepperdine              88    
+11/03/2025 Youngstown St.          59 Pittsburgh              74    
+11/03/2025 Willamette              83 Portland               120    
+11/03/2025 Biblical Studies        48 Prairie View A&M        95    
+11/03/2025 Navy                    76 Presbyterian            55    
+11/03/2025 Holy Cross              79 Providence              89    
+11/03/2025 Western Illinois        75 Radford                 80    
+11/03/2025 Stetson                 62 Rhode Island            93    
+11/03/2025 Lafayette               76 Saint Joseph's          85    
+11/03/2025 Southeast Missouri      67 Saint Louis             92    
+11/03/2025 St. Thomas              58 Saint Mary's            84    
+11/03/2025 LeTourneau              59 Sam Houston St.         95    
+11/03/2025 UC Santa Cruz           53 San Francisco           98    
+11/03/2025 Denver                  73 Seattle                 84    
+11/03/2025 Saint Peter's           50 Seton Hall              77    
+11/03/2025 Bryant                  66 Siena                   82    
+11/03/2025 Tarleton St.            76 SMU                     96    
+11/03/2025 Utah Tech               81 South Dakota            79 1  
+11/03/2025 Merrimack               66 South Dakota St.        75 n   Sioux Falls, SD
+11/03/2025 Florida A&M             67 South Florida          102    
+11/03/2025 McKendree               42 Southern Illinois       83    
+11/03/2025 Bradley                 63 St. Bonaventure         69 N   Rock Hill, SC
+11/03/2025 Quinnipiac              74 St. John's             108    
+11/03/2025 Millsaps                76 Stephen F. Austin      103    
+11/03/2025 Thomas ME               48 Stonehill              100    
+11/03/2025 Farmingdale St.         59 Stony Brook             66    
+11/03/2025 Binghamton              47 Syracuse                85    
+11/03/2025 New Orleans             78 TCU                     74    
+11/03/2025 Mercer                  61 Tennessee               76    
+11/03/2025 Fisk                    50 Tennessee St.          101    
+11/03/2025 Northwestern St.        68 Texas A&M               98    
+11/03/2025 Trinity TX              56 Texas A&M Corpus Chris  83    
+11/03/2025 Erskine                 61 The Citadel            105    
+11/03/2025 South Alabama           76 Toledo                  74    
+11/03/2025 Samford                 72 Tulane                  85    
+11/03/2025 Oklahoma Christian      57 Tulsa                  100    
+11/03/2025 Mississippi Valley St.  55 UAB                    106    
+11/03/2025 Menlo                   69 UC Davis                96    
+11/03/2025 Bethesda                49 UC Irvine              125    
+11/03/2025 La Sierra               49 UC Riverside            90    
+11/03/2025 La Verne                73 UC San Diego           105    
+11/03/2025 Hofstra                 78 UCF                     82    
+11/03/2025 Eastern Washington      74 UCLA                    80    
+11/03/2025 Rivier                  55 UMass Lowell           107    
+11/03/2025 Mount Olive             77 UNC Wilmington         106    
+11/03/2025 Cal Poly                64 USC                     94    
+11/03/2025 UNT Dallas              40 UT Arlington            91    
+11/03/2025 San Jose St.            75 Utah                    84    
+11/03/2025 Westminster UT          54 Utah St.               110    
+11/03/2025 Texas Permian Basin     56 UTEP                    98    
+11/03/2025 Lipscomb                61 Vanderbilt             105    
+11/03/2025 Wagner                  74 VCU                    103    
+11/03/2025 Western New England     68 Vermont                 75    
+11/03/2025 Rider                   53 Virginia                87    
+11/03/2025 Charleston Southern     67 Virginia Tech           98    
+11/03/2025 Johnson & Wales NC      58 VMI                    122    
+11/03/2025 American                74 Wake Forest             88    
+11/03/2025 Arkansas Pine Bluff     50 Washington              94    
+11/03/2025 Idaho                   83 Washington St.          81    
+11/03/2025 West Coast Baptist      38 Weber St.              130    
+11/03/2025 Tennessee Tech          70 Western Kentucky        82    
+11/03/2025 Coastal Carolina        71 Western Michigan        76    
+11/03/2025 Georgian Court          63 William & Mary         110    
+11/03/2025 Queens                  74 Winthrop                81    
+11/03/2025 Campbell                64 Wisconsin               96    
+11/03/2025 Franklin                37 Wright St.              86    
+11/03/2025 Northern St.            75 Wyoming                 99    
+11/03/2025 Marist                  62 Xavier                  66    
+11/04/2025 Southern Utah           64 Arizona St.             81    
+11/04/2025 Texas                   60 Duke                    75 n   Charlotte, NC
+11/04/2025 Georgia Southern        89 East Carolina           92    
+11/04/2025 Converse                50 East Tennessee St.     102    
+11/04/2025 Alcorn St.              76 Florida St.            108    
+11/04/2025 NJIT                    72 Fordham                 61    
+11/04/2025 Park                    71 Idaho St.               81    
+11/04/2025 Robert Morris           69 Iowa                   101    
+11/04/2025 UNC Greensboro          64 Kansas St.              93    
+11/04/2025 Nicholls                51 Kentucky                77    
+11/04/2025 Arkansas Baptist        63 Little Rock             92    
+11/04/2025 St. Joseph's NY Bkn     59 Manhattan              125    
+11/04/2025 Missouri Southern St.   70 Missouri St.            88    
+11/04/2025 Caldwell                68 Monmouth                96    
+11/04/2025 Louisiana Tech          50 Nevada                  77    
+11/04/2025 Adams St.               72 New Mexico St.          83    
+11/04/2025 Oral Roberts            71 Oklahoma St.            95    
+11/04/2025 Hawaii                  59 Oregon                  60    
+11/04/2025 Evansville              51 Purdue                  82    
+11/04/2025 Biblical Studies        38 Rice                   109    
+11/04/2025 Dominican CA            79 Sacramento St.         103    
+11/04/2025 US Merchant Marine      46 Sacred Heart           103    
+11/04/2025 Occidental              59 San Diego               88    
+11/04/2025 Long Beach St.          45 San Diego St.           77    
+11/04/2025 Cal Poly Humboldt       53 Santa Clara             83    
+11/04/2025 East West               50 SIUE                   119    
+11/04/2025 North Carolina A&T      72 South Carolina          91    
+11/04/2025 Portland St.            79 Stanford                89    
+11/04/2025 Lindenwood              60 Texas Tech              98    
+11/04/2025 San Francisco St.       67 UC Santa Barbara        98    
+11/04/2025 Penn St. York           53 UMBC                    74    
+11/04/2025 Tennessee Martin        86 UNLV                    81    
+11/04/2025 West Coast Baptist      35 Utah Valley            116    
+11/04/2025 Eastern Illinois        63 Valparaiso              66    
+11/04/2025 Mount St. Mary's        54 West Virginia           70    
+11/04/2025 UNC Asheville           58 Wichita St.             75    
+11/05/2025 Carolina                46 Appalachian St.         92    
+11/05/2025 RIT                     56 Binghamton              66    
+11/05/2025 Southern Indiana        58 Butler                  88    
+11/05/2025 Pacific Lutheran        79 Cal Poly               101    
+11/05/2025 South Dakota            76 Creighton               92    
+11/05/2025 Belmont Abbey           51 Elon                    99    
+11/05/2025 USC Upstate             67 Fresno St.              66    
+11/05/2025 Maryland Eastern Shore  29 Georgia                 94    
+11/05/2025 Alabama A&M             51 Indiana                 98    
+11/05/2025 Washington & Lee        56 James Madison           70    
+11/05/2025 Coppin St.              59 La Salle                87    
+11/05/2025 Dickinson               44 Lafayette               79    
+11/05/2025 Eastern Washington      62 Loyola Marymount        70    
+11/05/2025 Tarleton St.            60 LSU                     96    
+11/05/2025 Southern                82 Marquette              100    
+11/05/2025 LaGrange                62 Mercer                 101    
+11/05/2025 Milligan                51 Middle Tennessee       100    
+11/05/2025 North Alabama           62 Mississippi St.         86    
+11/05/2025 MUW                     61 Mississippi Valley St.  97    
+11/05/2025 Ottawa AZ               39 Montana                 73    
+11/05/2025 Northwest Indian        44 Montana St.            114    
+11/05/2025 East Texas A&M          54 New Mexico              76    
+11/05/2025 Regent                  55 Norfolk St.            119    
+11/05/2025 Life Pacific            56 Pacific                 83    
+11/05/2025 University of Dallas    53 Prairie View A&M        94    
+11/05/2025 Bluefield               76 Presbyterian           105    
+11/05/2025 Lynchburg               76 Queens                  87    
+11/05/2025 Southern Virginia       56 Richmond                84    
+11/05/2025 Rider                   53 Rutgers                 81    
+11/05/2025 Delaware St.            65 Temple                  83    
+11/05/2025 Texas A&M San Antonio   55 Texas St.              114    
+11/05/2025 North Dakota St.        68 UC Davis                80    
+11/05/2025 Bethesda                65 Utah Tech              110    
+11/05/2025 Biblical Studies        30 UTSA                    97    
+11/05/2025 Plattsburgh St.         62 Vermont                113    
+11/06/2025 Nebraska Omaha          71 Abilene Christian       73    
+11/06/2025 Merrimack               57 Auburn                  95    
+11/06/2025 The Citadel             47 Boston College          76    
+11/06/2025 Bethany WV              65 Bowling Green          120    
+11/06/2025 Whittier                61 Cal St. Bakersfield     83    
+11/06/2025 Wright St.              67 California              77    
+11/06/2025 Allegheny               43 Canisius                84    
+11/06/2025 Toccoa Falls            71 Charleston Southern    106    
+11/06/2025 Capital                 70 Cleveland St.           71    
+11/06/2025 Robert Morris           81 Drake                   79 1  
+11/06/2025 Midway                  60 Eastern Kentucky       122    
+11/06/2025 North Florida           64 Florida                104    
+11/06/2025 Mid Atlantic Christian  43 Hampton                103    
+11/06/2025 UDC                     71 Howard                 103    
+11/06/2025 Illinois Tech           73 Indiana St.            104    
+11/06/2025 Grambling St.           62 Iowa St.               102    
+11/06/2025 LIU                     94 IU Indy                 90    
+11/06/2025 Trinity FL              45 Jacksonville           132    
+11/06/2025 Valley Forge            52 Lehigh                  91    
+11/06/2025 St. Louis Pharmacy      51 Lindenwood             116    
+11/06/2025 Jackson St.             70 Louisville             106    
+11/06/2025 Mercyhurst              73 Loyola Chicago          65    
+11/06/2025 Penn St. Abington       60 Loyola MD               96    
+11/06/2025 Bethune Cookman         61 Miami FL               101    
+11/06/2025 Central Pennsylvania    77 Morgan St.             101    
+11/06/2025 Curry                   31 New Hampshire          113    
+11/06/2025 UC Riverside            74 North Dakota            70    
+11/06/2025 Northwestern St.        53 North Texas             80    
+11/06/2025 CSUN                    57 Northern Iowa           86    
+11/06/2025 Illinois St.            68 Ohio                    72    
+11/06/2025 Randolph                53 Old Dominion            93    
+11/06/2025 Arkansas Pine Bluff     74 Portland                83    
+11/06/2025 Central Connecticut     49 Quinnipiac              71    
+11/06/2025 Chicago St.             86 Saint Louis            108    
+11/06/2025 Texas A&M Corpus Chris  58 SMU                     69    
+11/06/2025 Alcorn St.              70 South Alabama           76    
+11/06/2025 Dakota St.              62 South Dakota St.        68    
+11/06/2025 Tougaloo                57 Southern Miss           93    
+11/06/2025 Saint Francis           63 TCU                    104    
+11/06/2025 Texas Southern          70 Texas A&M              104    
+11/06/2025 Denver                  70 Washington              84    
+11/06/2025 Campbell                65 West Virginia           73    
+11/06/2025 Northwood MI            85 Western Michigan        81    
+11/06/2025 Le Moyne                69 Xavier                  74    
+11/07/2025 Utah Tech               67 Arizona                 93    
+11/07/2025 Mansfield               54 Ball St.                84    
+11/07/2025 Siena                   62 Brown                   46    
+11/07/2025 Green Bay               76 Buffalo                 83    
+11/07/2025 Tennessee Tech          65 Charlotte               70    
+11/07/2025 Georgia St.             64 Cincinnati              74    
+11/07/2025 Gardner Webb            59 Clemson                 97    
+11/07/2025 Virginia Lynchburg      44 Coastal Carolina       121    
+11/07/2025 Northeastern            68 Colgate                 65    
+11/07/2025 UMass Lowell            47 Connecticut            110    
+11/07/2025 Washington St.          69 Davidson                85    
+11/07/2025 Wilmington DE           71 Delaware                62    
+11/07/2025 Stonehill               64 DePaul                  72    
+11/07/2025 Sacred Heart            80 Duquesne                92    
+11/07/2025 Nicholls                57 Eastern Illinois        65    
+11/07/2025 Calumet                 50 Evansville              92    
+11/07/2025 Alabama St.             64 Florida St.            101    
+11/07/2025 Mount Saint Mary        37 Fordham                106    
+11/07/2025 Troy                    64 Furman                  61    
+11/07/2025 Winthrop                90 George Mason            96    
+11/07/2025 Bryant                  45 Georgia Tech            74    
+11/07/2025 Youngstown St.          90 Grand Canyon            81    
+11/07/2025 MIT                     50 Harvard                 79    
+11/07/2025 Whitman                 49 Idaho                   94    
+11/07/2025 Florida Gulf Coast      70 Illinois               113    
+11/07/2025 Jarvis Christian        60 Incarnate Word         104    
+11/07/2025 Hofstra                 73 Iona                    81    
+11/07/2025 Western Illinois        58 Iowa                    77    
+11/07/2025 Cornell                102 Kent St.               110    
+11/07/2025 Valparaiso              59 Kentucky               107    
+11/07/2025 Charleston              75 Liberty                 90    
+11/07/2025 Southeastern Louisiana  52 Louisiana               58    
+11/07/2025 Georgetown              70 Maryland                60    
+11/07/2025 Trinity Christian       49 Miami OH               129    
+11/07/2025 Louisiana Monroe        65 Mississippi             86    
+11/07/2025 Southeast Missouri      84 Missouri                89    
+11/07/2025 Bucknell                73 Mount St. Mary's        62    
+11/07/2025 Mississippi Valley St.  60 Murray St.             108    
+11/07/2025 UAB                     70 N.C. State              94    
+11/07/2025 Yale                    97 Navy                    68    
+11/07/2025 Columbia                71 New Haven               53    
+11/07/2025 Lane                    84 North Alabama           90    
+11/07/2025 Kansas                  74 North Carolina          87    
+11/07/2025 Justice                 55 Northern Arizona        87    
+11/07/2025 Colorado Christian      65 Northern Colorado      101    
+11/07/2025 Boston University       52 Northwestern            76    
+11/07/2025 Detroit Mercy           70 Notre Dame             102    
+11/07/2025 Purdue Fort Wayne       68 Ohio St.                94    
+11/07/2025 Rice                    63 Oregon                  67    
+11/07/2025 Illinois Chicago        73 Oregon St.              76    
+11/07/2025 Rowan                   72 Penn                   119    
+11/07/2025 Longwood                60 Pittsburgh              78    
+11/07/2025 Northwest Indian        74 Portland St.           122    
+11/07/2025 Oakland                 77 Purdue                  87    
+11/07/2025 West Virginia Wesleyan  61 Radford                 99    
+11/07/2025 Tulsa                   82 Rhode Island            65 N   Annapolis, MD
+11/07/2025 Jessup                  76 Sacramento St.          86    
+11/07/2025 Chattanooga             66 Saint Mary's            87    
+11/07/2025 South Carolina St.      72 Samford                 82    
+11/07/2025 Idaho St.               71 San Diego               68    
+11/07/2025 McNeese                 67 Santa Clara             79    
+11/07/2025 Wagner                  61 Seton Hall              68    
+11/07/2025 Kansas City             78 Southern Illinois      101    
+11/07/2025 VMI                     78 Southern Indiana        74    
+11/07/2025 Arkansas St.            65 Stephen F. Austin       90    
+11/07/2025 Fort Lauderdale         77 Stetson                106    
+11/07/2025 Sam Houston St.         77 Texas Tech              98    
+11/07/2025 Cal Baptist             69 UC Irvine               61    
+11/07/2025 Pepperdine              63 UCLA                    74    
+11/07/2025 VCU                     77 Utah St.                80 N   Frisco, TX
+11/07/2025 Western New Mexico      70 UTEP                   107    
+11/07/2025 SIUE                    77 UTSA                    60    
+11/07/2025 North Carolina Central  62 Virginia                81    
+11/07/2025 Morehead St.            65 Wake Forest             81    
+11/07/2025 Huntingdon              83 West Georgia           120    
+11/07/2025 Northern Illinois       72 Wisconsin               97    
+11/08/2025 Austin Peay             74 Air Force               54    
+11/08/2025 Princeton               69 Akron                  104    
+11/08/2025 Tennessee St.           79 Belmont                 87    
+11/08/2025 Niagara                 67 Binghamton              59    
+11/08/2025 Utah Valley             77 Boise St.              101    
+11/08/2025 Central Michigan        54 Bradley                 85    
+11/08/2025 IU Indy                 80 Butler                 112    
+11/08/2025 Holy Cross              53 BYU                     98    
+11/08/2025 Champion Christian      63 Central Arkansas       110    
+11/08/2025 Eastern Washington      97 Colorado               102 1  
+11/08/2025 UMBC                    71 Dayton                  77    
+11/08/2025 Western Carolina        54 Duke                    95    
+11/08/2025 Kennesaw St.            92 Florida A&M             72    
+11/08/2025 Charleston              77 Florida Atlantic        94 N   Lynchburg, VA
+11/08/2025 Long Beach St.          62 Fresno St.              82    
+11/08/2025 UNC Asheville           90 Georgia Southern        93    
+11/08/2025 Oklahoma                68 Gonzaga                 83    
+11/08/2025 Averett                 52 High Point             127    
+11/08/2025 Towson                  48 Houston                 65    
+11/08/2025 Bellarmine              71 Kansas St.              98    
+11/08/2025 Monmouth                60 La Salle                73    
+11/08/2025 Arkansas Pine Bluff     72 Loyola Marymount        94    
+11/08/2025 Cheyney                 59 Maryland Eastern Shore 104    
+11/08/2025 Albany                  62 Massachusetts           83    
+11/08/2025 San Francisco           70 Memphis                 76    
+11/08/2025 Penn St New Kensington  43 Mercyhurst              94    
+11/08/2025 Arkansas                66 Michigan St.            69    
+11/08/2025 Webster                 56 Middle Tennessee       109    
+11/08/2025 Alcorn St.              50 Minnesota               95    
+11/08/2025 Northwestern Oklahoma   57 Missouri St.           106    
+11/08/2025 FIU                     66 Nebraska                96    
+11/08/2025 Pacific                 77 Nevada                  78    
+11/08/2025 Penn St.                87 New Haven               43    
+11/08/2025 UT Arlington            56 New Mexico              74    
+11/08/2025 Fairfield               74 NJIT                    53    
+11/08/2025 William & Mary          81 Norfolk St.             78    
+11/08/2025 John Brown              50 Oral Roberts            84    
+11/08/2025 East Tennessee St.      64 Presbyterian            68    
+11/08/2025 Virginia Tech          107 Providence             101 1N  Uncasville, CT
+11/08/2025 East Carolina           72 Richmond                87    
+11/08/2025 Drexel                  65 Saint Joseph's          76    
+11/08/2025 Fairleigh Dickinson     83 Saint Peter's           93    
+11/08/2025 Cal Poly                73 Seattle                 71    
+11/08/2025 Spring Hill             50 South Alabama           99    
+11/08/2025 George Washington       99 South Florida           95 N   Uncasville, CT
+11/08/2025 UT Rio Grande Valley    95 Southern Utah           72    
+11/08/2025 Canisius                70 St. Bonaventure         89    
+11/08/2025 Alabama                103 St. John's              96    
+11/08/2025 Army                    76 St. Thomas              83    
+11/08/2025 Montana                 68 Stanford                91    
+11/08/2025 Maine                   60 Stony Brook             71    
+11/08/2025 Delaware St.            43 Syracuse                83    
+11/08/2025 Texas A&M Corpus Chris  77 Tarleton St.            85    
+11/08/2025 Northern Kentucky       56 Tennessee               95    
+11/08/2025 Lafayette               60 Texas                   97    
+11/08/2025 Marshall                85 Toledo                  73    
+11/08/2025 Texas St.               71 Tulane                  79    
+11/08/2025 Houston Christian       60 UC San Diego            78    
+11/08/2025 San Jose St.            74 UC Santa Barbara        85    
+11/08/2025 Vanderbilt             105 UCF                     93    
+11/08/2025 Elon                    92 UNC Greensboro          90 1  
+11/08/2025 Chattanooga             69 UNLV                   101    
+11/08/2025 Southern Virginia       46 USC Upstate            105    
+11/08/2025 Weber St.               89 Utah                    92 1  
+11/08/2025 Queens                  74 Villanova               94    
+11/08/2025 Prairie View A&M        62 Wichita St.            105    
+11/08/2025 Milwaukee               76 Wofford                 86    
+11/08/2025 Cal St. Fullerton       82 Wyoming                 92    
+11/09/2025 Penn                    78 American                84    
+11/09/2025 North Carolina Central  54 Appalachian St.         76    
+11/09/2025 Utah Tech               66 Arizona St.             81    
+11/09/2025 Washington              69 Baylor                  78    
+11/09/2025 Le Moyne                60 Bowling Green           83    
+11/09/2025 Vermont                 89 Brown                   84 2  
+11/09/2025 Western Michigan        82 Campbell                91    
+11/09/2025 Nebraska Omaha          74 Colorado St.            97    
+11/09/2025 Marist                  75 Dartmouth               56    
+11/09/2025 Oakland City            47 Evansville              76    
+11/09/2025 Morehead St.            81 Georgia                120    
+11/09/2025 New Hampshire           75 Harvard                 86    
+11/09/2025 East Texas A&M          74 Hawaii                 100    
+11/09/2025 Grambling St.           73 Howard                  70    
+11/09/2025 Cornell                 65 Illinois St.            76    
+11/09/2025 Coppin St.              70 James Madison           84    
+11/09/2025 Florida Atlantic        68 Liberty                 88    
+11/09/2025 Lyon                    35 Louisiana Tech          93    
+11/09/2025 North Texas             64 Loyola Chicago          62 n   Hoffman Estates, IL
+11/09/2025 Indiana                100 Marquette               77 N   Chicago, IL
+11/09/2025 Lipscomb                77 Mercer                  92    
+11/09/2025 VMI                     68 Missouri               106    
+11/09/2025 Denver                  75 Montana St.             73    
+11/09/2025 CSUN                    93 North Dakota            85    
+11/09/2025 South Dakota St.        58 Northern Iowa           65    
+11/09/2025 Texas A&M               63 Oklahoma St.            87    
+11/09/2025 UC Davis                63 Portland                67    
+11/09/2025 Dominican IL            56 Purdue Fort Wayne      137    
+11/09/2025 Idaho St.               57 San Diego St.           73    
+11/09/2025 Southern Miss           79 South Carolina          83 1  
+11/09/2025 Ozark Christian         65 South Dakota           121    
+11/09/2025 Kentucky Christian      42 Tennessee Martin        97    
+11/09/2025 Manhattan               83 USC                    114    
+11/09/2025 Lehigh                  47 West Virginia           69    
+11/10/2025 Cal St. Fullerton       65 California              93    
+11/10/2025 Columbia                62 Connecticut             89    
+11/10/2025 Simpson                 51 Drake                   89    
+11/10/2025 Western Kentucky        87 Eastern Kentucky        79    
+11/10/2025 Columbia International  59 Furman                  89    
+11/10/2025 North Greenville        92 Gardner Webb            81    
+11/10/2025 Presbyterian            63 Georgia St.             61    
+11/10/2025 Southeastern Louisiana  60 Georgia Tech            70    
+11/10/2025 Northern Illinois       59 Grand Canyon            88    
+11/10/2025 Ripon                   63 Green Bay               83    
+11/10/2025 Molloy                  61 Hofstra                 95    
+11/10/2025 Mississippi St.         80 Iowa St.                96 N   Sioux Falls, SD
+11/10/2025 Reinhardt               39 Jacksonville St.       114    
+11/10/2025 UNC Wilmington          77 Kent St.                86    
+11/10/2025 Rust                    55 Louisiana Monroe        88    
+11/10/2025 New Orleans             58 LSU                     93    
+11/10/2025 Biblical Studies        50 McNeese                132    
+11/10/2025 Stetson                 61 Miami FL               102    
+11/10/2025 Little Rock             72 Milwaukee               92    
+11/10/2025 Delaware St.            57 Niagara                 68    
+11/10/2025 South Carolina St.      62 North Carolina A&T      85    
+11/10/2025 Cleveland St.           63 Northwestern           110    
+11/10/2025 Eastern Michigan        66 Pittsburgh              78    
+11/10/2025 Geneva                  47 Robert Morris           93    
+11/10/2025 Maine                   60 Rutgers                 72    
+11/10/2025 Lindenwood              66 Saint Louis            109    
+11/10/2025 Fairfield               59 Seton Hall              82    
+11/10/2025 Indiana St.             64 SIUE                    55    
+11/10/2025 Ecclesia                51 Southern               115    
+11/10/2025 Lamar                   65 TCU                     78    
+11/10/2025 Virginia Lynchburg      58 Tennessee Tech         118    
+11/10/2025 Charleston Southern     96 The Citadel             86    
+11/10/2025 Lincoln CA              63 UC Irvine              130    
+11/10/2025 West Georgia            62 UCLA                    83    
+11/10/2025 New Haven               73 UMass Lowell            67    
+11/10/2025 Arlington Baptist       61 UT Arlington           117    
+11/10/2025 Holy Cross              69 Utah                    87    
+11/10/2025 St. Thomas              71 Washington St.          81    
+11/10/2025 Santa Clara             87 Xavier                  68    
+11/10/2025 Penn St. Shenango       53 Youngstown St.         115    
+11/11/2025 Southwestern Adventist  63 Abilene Christian      104    
+11/11/2025 LIU                     76 Air Force               72    
+11/11/2025 SUNY Delhi              52 Albany                 115    
+11/11/2025 Northern Arizona        49 Arizona                 84    
+11/11/2025 Central Arkansas        56 Arkansas                93    
+11/11/2025 Duke                   114 Army                    59    
+11/11/2025 Wofford                 62 Auburn                  93    
+11/11/2025 Coastal Georgia         60 Bethune Cookman        101    
+11/11/2025 UT Rio Grande Valley    65 Boise St.               85    
+11/11/2025 Central Connecticut     60 Boston College          59    
+11/11/2025 Chicago St.             66 Butler                  98    
+11/11/2025 Delaware                68 BYU                     85    
+11/11/2025 Western Illinois        58 Cal St. Bakersfield     74    
+11/11/2025 Davidson                62 Charlotte               55    
+11/11/2025 Dayton                  62 Cincinnati              74    
+11/11/2025 Morehead St.            56 Clemson                 83    
+11/11/2025 Winthrop                66 Coastal Carolina        72    
+11/11/2025 Drexel                  83 Colgate                 90    
+11/11/2025 Buffalo                 66 DePaul                  53    
+11/11/2025 Cleary                  54 Detroit Mercy           92    
+11/11/2025 Queens                  81 Duquesne                87 1  
+11/11/2025 Florida St.             76 Florida                 78    
+11/11/2025 Georgia Southern        95 Florida Gulf Coast      94    
+11/11/2025 Wagner                  61 Fordham                 63    
+11/11/2025 Catawba                 62 George Mason            86    
+11/11/2025 Creighton               63 Gonzaga                 90    
+11/11/2025 Northeastern            77 Harvard                 60    
+11/11/2025 Jacksonville            64 High Point              85    
+11/11/2025 Texas Tech              77 Illinois                81    
+11/11/2025 St. Francis IL          55 Illinois Chicago        98    
+11/11/2025 Southwestern Christian  70 Incarnate Word         109    
+11/11/2025 IU Columbus             77 IU Indy                121    
+11/11/2025 Texas A&M Corpus Chris  46 Kansas                  77    
+11/11/2025 Iona                   105 Kansas City             91    
+11/11/2025 Tulane                  66 Louisiana               62    
+11/11/2025 Kentucky                88 Louisville              96    
+11/11/2025 NJIT                    66 Loyola MD               64    
+11/11/2025 Alcorn St.              64 Maryland                84    
+11/11/2025 Wake Forest             84 Michigan                85 1n  Detroit, MI
+11/11/2025 Memphis                 77 Mississippi             83    
+11/11/2025 Arkansas St.            86 Missouri St.            85    
+11/11/2025 UMBC                    81 Morgan St.              79    
+11/11/2025 Maryland Eastern Shore  50 Nebraska                69    
+11/11/2025 UC Riverside            68 New Mexico              82    
+11/11/2025 New Mexico Highlands    58 New Mexico St.          74    
+11/11/2025 Northwestern St.        83 North Alabama           87 1  
+11/11/2025 Radford                 74 North Carolina          89    
+11/11/2025 Mayville St.            58 North Dakota           128    
+11/11/2025 CSUN                    68 North Dakota St.        90    
+11/11/2025 Eastern Illinois        58 Notre Dame              78    
+11/11/2025 Appalachian St.         53 Ohio St.                75    
+11/11/2025 Arkansas Pine Bluff     69 Oklahoma                95    
+11/11/2025 Norfolk St.             57 Old Dominion            60    
+11/11/2025 Navy                    71 Penn St.                80    
+11/11/2025 Lincoln CA              76 Pepperdine             113    
+11/11/2025 Bucknell                63 Princeton               73    
+11/11/2025 Penn                    81 Providence             106    
+11/11/2025 Yale                    97 Quinnipiac              60    
+11/11/2025 Stonehill               57 Rhode Island            80    
+11/11/2025 Stephen F. Austin       81 Rice                    69    
+11/11/2025 William & Mary          86 Richmond                90    
+11/11/2025 UC Santa Barbara        92 Sacramento St.          87    
+11/11/2025 Mount St. Mary's        74 Saint Francis           66    
+11/11/2025 Ohio                    60 Saint Mary's            90    
+11/11/2025 Murray St.              91 SMU                    102    
+11/11/2025 Bethesda                60 Southern Utah          118    
+11/11/2025 St. Joseph's NY Long I  43 Stony Brook            107    
+11/11/2025 Merrimack               62 Tarleton St.            76    
+11/11/2025 La Salle                63 Temple                  90    
+11/11/2025 Oakwood                 76 Tennessee St.          114    
+11/11/2025 Wilson                  62 Towson                 101    
+11/11/2025 Pensacola Christian     56 Troy                   121    
+11/11/2025 Alabama St.             77 UAB                     74    
+11/11/2025 Florida A&M             60 UCF                     97    
+11/11/2025 Lipscomb                64 UNC Asheville           69    
+11/11/2025 Montana                102 UNLV                    93    
+11/11/2025 Loyola Marymount        71 UTEP                    58    
+11/11/2025 Sacred Heart            60 Villanova               94    
+11/11/2025 Hampton                 53 Virginia                91    
+11/11/2025 Ball St.                55 Wisconsin               86    
+11/11/2025 Toledo                  81 Wright St.              71    
+11/11/2025 Austin Peay             65 Wyoming                 79    
+11/12/2025 Penn St. Shenango       51 Akron                  109    
+11/12/2025 Hanover                 55 Bellarmine              94    
+11/12/2025 Brown                   77 Boston University       90    
+11/12/2025 Tennessee Martin        78 Bradley                 67    
+11/12/2025 Dartmouth               75 Bryant                  82    
+11/12/2025 Mercyhurst              55 Canisius                58    
+11/12/2025 Cal Poly                79 Colorado St.            93    
+11/12/2025 Northern Kentucky       63 East Tennessee St.      75    
+11/12/2025 Middle Tennessee        77 Evansville              72    
+11/12/2025 UC San Diego            78 Fresno St.              73    
+11/12/2025 American                67 George Washington      107    
+11/12/2025 Binghamton              70 Georgetown              83    
+11/12/2025 Mississippi Valley St.  56 Hawaii                  88    
+11/12/2025 Oakland                 45 Houston                 78    
+11/12/2025 Milwaukee               70 Indiana                101    
+11/12/2025 Point                   60 Kennesaw St.           111    
+11/12/2025 James Madison           72 Longwood                82    
+11/12/2025 Vassar                  61 Marist                  93    
+11/12/2025 Little Rock             49 Marquette               89    
+11/12/2025 Elon                    89 Marshall                96    
+11/12/2025 Minnesota               60 Missouri                83    
+11/12/2025 UNC Greensboro          64 N.C. State             110    
+11/12/2025 Southern Illinois       81 Nevada                  86 1  
+11/12/2025 Emmanuel                69 New Hampshire           97    
+11/12/2025 Bluefield St.           61 North Carolina Central  77    
+11/12/2025 St. Scholastica         38 North Dakota St.       111    
+11/12/2025 Prairie View A&M        67 Oklahoma St.            94    
+11/12/2025 Tulsa                   88 Oral Roberts            87    
+11/12/2025 South Dakota St.        69 Oregon                  83    
+11/12/2025 North Texas             64 Oregon St.              66    
+11/12/2025 Long Beach St.          66 Pacific                 69    
+11/12/2025 Idaho                   74 San Diego               78    
+11/12/2025 Portland St.            70 San Francisco           80    
+11/12/2025 Eastern Washington      67 Seattle                 94    
+11/12/2025 Presbyterian            61 South Carolina          81    
+11/12/2025 Southern Indiana        74 South Dakota            89    
+11/12/2025 Coppin St.              50 South Florida          100    
+11/12/2025 Webster                 41 Southeast Missouri      87    
+11/12/2025 Siena                   66 St. Bonaventure         75    
+11/12/2025 Montana St.             68 Stanford                77    
+11/12/2025 North Florida           66 Tennessee               99    
+11/12/2025 Fairleigh Dickinson     58 Texas                   93    
+11/12/2025 Samford                 93 Texas Southern          90 1  
+11/12/2025 UTSA                    69 Texas St.               80    
+11/12/2025 Bob Jones               53 USC Upstate            114    
+11/12/2025 Weber St.               73 Utah St.                83    
+11/12/2025 Manhattan               79 Utah Tech               75 N   Honolulu, HI
+11/12/2025 Westminster UT          60 Utah Valley             91    
+11/12/2025 Nicholls                63 Valparaiso              68    
+11/12/2025 Eastern Kentucky        62 Vanderbilt              92    
+11/12/2025 Saint Peter's           61 VCU                     78    
+11/12/2025 Saint Joseph's          59 Virginia Tech           94    
+11/12/2025 Virginia Lynchburg      54 VMI                    106    
+11/12/2025 Purdue Fort Wayne       71 Western Michigan        83    
+11/13/2025 Purdue                  87 Alabama                 80    
+11/13/2025 Charleston Southern     64 Alabama A&M             68    
+11/13/2025 Mid Atlantic Christian  55 Campbell               108    
+11/13/2025 UMass Lowell            72 Columbia                86    
+11/13/2025 Elizabeth City St.      70 East Carolina           71    
+11/13/2025 Fort Valley St.         56 Georgia St.             90    
+11/13/2025 Southern Miss           70 Grambling St.           75    
+11/13/2025 Louisiana Monroe        61 Houston Christian       72    
+11/13/2025 Alcorn St.              64 Howard                  72    
+11/13/2025 California              96 Kansas St.              99    
+11/13/2025 Cornell                 97 Lafayette               78    
+11/13/2025 FIU                     81 LSU                     98    
+11/13/2025 Le Moyne                80 Massachusetts           94    
+11/13/2025 San Jose St.            60 Michigan St.            79    
+11/13/2025 Washington Adventist    83 North Carolina A&T      89    
+11/13/2025 Benedictine             62 Northern Illinois      117    
+11/13/2025 John Jay                59 Princeton              100    
+11/13/2025 Pittsburgh Greensburg   57 Robert Morris           81    
+11/13/2025 Monmouth                58 Seton Hall              70    
+11/13/2025 Central Michigan        64 South Alabama           66 N   St. Petersburg, FL
+11/13/2025 Green Bay               61 St. Thomas              80    
+11/13/2025 Berea                   64 Tennessee Tech          86    
+11/13/2025 Bryan                   54 UNC Asheville           92    
+11/13/2025 Pittsburgh              49 West Virginia           71    
+11/13/2025 Voorhees                44 Western Carolina        95    
+11/13/2025 Loyola Chicago          74 Wichita St.             95    
+11/14/2025 Virginia Lynchburg      68 Alabama St.            124    
+11/14/2025 Gonzaga                 77 Arizona St.             65    
+11/14/2025 Samford                 75 Arkansas                79    
+11/14/2025 Tarleton St.            81 Baylor                  94    
+11/14/2025 Hampton                 72 Brown                   63    
+11/14/2025 Hofstra                 83 Bucknell                77    
+11/14/2025 Western Illinois        59 Cal Baptist             69    
+11/14/2025 Coppin St.              59 Central Michigan        82 N   St. Petersburg, FL
+11/14/2025 South Carolina St.      61 Charleston              88    
+11/14/2025 Lindenwood              83 Charleston Southern     77 N   Huntsville, AL
+11/14/2025 Providence              88 Colorado                97    
+11/14/2025 Maryland Eastern Shore  45 Creighton               84    
+11/14/2025 Northwestern            81 DePaul                  79    
+11/14/2025 SIUE                    61 Drake                   59    
+11/14/2025 Indiana St.             62 Duke                   100    
+11/14/2025 IU Indy                 90 Eastern Michigan        83    
+11/14/2025 Stonehill               71 Fairfield               73 1  
+11/14/2025 Georgia Tech            87 Georgia                 92    
+11/14/2025 Johnson C. Smith        79 Georgia Southern        98    
+11/14/2025 Manhattan               56 Hawaii                  86    
+11/14/2025 Colgate                 65 Illinois                84    
+11/14/2025 Fordham                 71 Iona                    76    
+11/14/2025 Xavier                  62 Iowa                    81    
+11/14/2025 Coastal Carolina        67 Jacksonville St.        74    
+11/14/2025 Eastern Illinois        53 Kentucky                99    
+11/14/2025 Troy                    63 Loyola Marymount        74    
+11/14/2025 Louisiana               62 McNeese                 88    
+11/14/2025 Cal St. Bakersfield     60 Mississippi             82    
+11/14/2025 Cal Poly                82 Montana                 90    
+11/14/2025 Washington MD           64 Navy                    97    
+11/14/2025 North Carolina Central  53 North Carolina          97    
+11/14/2025 Furman                  54 Northern Iowa           70    
+11/14/2025 Ecclesia                75 Northwestern St.        95    
+11/14/2025 Albany                  61 Rhode Island            80    
+11/14/2025 East Texas A&M          64 Rice                    71    
+11/14/2025 Lehigh                  72 Rutgers                 84    
+11/14/2025 North Texas             49 Saint Mary's            80    
+11/14/2025 Abilene Christian       66 Stephen F. Austin       76    
+11/14/2025 Michigan                67 TCU                     63    
+11/14/2025 UCF                     86 Texas A&M               74    
+11/14/2025 Milwaukee               63 Texas Tech              80    
+11/14/2025 Norfolk St.             41 Towson                  51    
+11/14/2025 New Orleans             85 Tulane                  63    
+11/14/2025 High Point              74 UAB                     91    
+11/14/2025 Sacramento St.          73 UC Davis                77    
+11/14/2025 Arizona                 69 UCLA                    65 n   Inglewood, CA
+11/14/2025 Illinois St.            67 USC                     87 n   Inglewood, CA
+11/14/2025 Mississippi Valley St.  75 Utah Tech               81 2N  Honolulu, HI
+11/14/2025 Washington              81 Washington St.          69    
+11/14/2025 The Citadel             92 West Georgia           100    
+11/15/2025 Miami OH                76 Air Force               61    
+11/15/2025 Central Pennsylvania    50 American               115    
+11/15/2025 Christian Brothers      67 Arkansas St.            95    
+11/15/2025 Harvard                 75 Army                    52    
+11/15/2025 Little Rock             68 Ball St.                62    
+11/15/2025 Wofford                 94 Bellarmine              86    
+11/15/2025 Montana St.             58 Boise St.               62    
+11/15/2025 Merrimack               91 Boston University       79    
+11/15/2025 RIT                     64 Buffalo                 80    
+11/15/2025 Pacific                 85 Cal St. Fullerton       73    
+11/15/2025 Illinois Chicago        67 Chicago St.             63    
+11/15/2025 Kent St.               102 Cleveland St.           95 N   White Sulphur Springs, WV
+11/15/2025 BYU                     84 Connecticut             86 n   Boston, MA
+11/15/2025 Bowling Green           87 Davidson                91    
+11/15/2025 Bethune Cookman         82 Dayton                  91    
+11/15/2025 UTSA                    84 Denver                  79    
+11/15/2025 Syracuse                80 Drexel                  50 N   Philadelphia, PA
+11/15/2025 Gardner Webb            84 Elon                    95    
+11/15/2025 Chattanooga             73 Florida Gulf Coast      91    
+11/15/2025 Utah Valley             74 Fresno St.              75    
+11/15/2025 New Hampshire           44 George Mason            61    
+11/15/2025 Old Dominion            73 George Washington       96    
+11/15/2025 Clemson                 74 Georgetown              79    
+11/15/2025 Utah Tech               62 Hawaii                  68    
+11/15/2025 Princeton               57 Kansas                  76    
+11/15/2025 Penn St.                83 La Salle                69 N   Philadelphia, PA
+11/15/2025 Bryan                   53 Lipscomb                98    
+11/15/2025 James Madison           79 LIU                     88    
+11/15/2025 Binghamton              82 Longwood                90    
+11/15/2025 Jackson St.             51 Louisiana Tech          68    
+11/15/2025 Ohio                    81 Louisville             106    
+11/15/2025 Stonehill               63 Loyola MD               74 N   Fairfield, CT
+11/15/2025 Maryland                89 Marquette               82    
+11/15/2025 Morgan St.              72 Mercyhurst              86    
+11/15/2025 Green Bay               65 Minnesota               72 1  
+11/15/2025 Southeastern Louisiana  68 Mississippi St.         75    
+11/15/2025 Manhattan               80 Mississippi Valley St.  73 N   Honolulu, HI
+11/15/2025 Nicholls                79 Murray St.              99    
+11/15/2025 Oklahoma                99 Nebraska               105 N   Sioux Falls, SD
+11/15/2025 Southern Utah           85 Nebraska Omaha          90    
+11/15/2025 Delaware St.            52 New Haven               65    
+11/15/2025 New Mexico              68 New Mexico St.          76    
+11/15/2025 Fairleigh Dickinson     81 NJIT                    93    
+11/15/2025 East Tennessee St.      78 North Alabama           74    
+11/15/2025 New College of Florida  67 North Florida          122    
+11/15/2025 Vermont                 85 Northeastern            74    
+11/15/2025 Defiance                47 Oakland                113    
+11/15/2025 Belmont                 83 Oral Roberts            60    
+11/15/2025 Northern Colorado       88 Pepperdine              81 1  
+11/15/2025 Boyce                   68 Purdue Fort Wayne      118    
+11/15/2025 Sacred Heart            64 Queens                  81    
+11/15/2025 Eastern                 54 Rider                   86    
+11/15/2025 Grand Canyon            64 Saint Louis             78    
+11/15/2025 Bradley                 64 San Francisco           75    
+11/15/2025 Nevada                  83 Santa Clara             98    
+11/15/2025 Idaho St.               74 Seattle                 83    
+11/15/2025 Butler                  85 SMU                     87    
+11/15/2025 Coppin St.              62 South Alabama           72 N   St. Petersburg, FL
+11/15/2025 St. Thomas              84 Southeast Missouri      72    
+11/15/2025 Champion Christian      64 Southern               129    
+11/15/2025 Youngstown St.          80 St. Bonaventure         84    
+11/15/2025 William & Mary          60 St. John's              93    
+11/15/2025 Boston College          76 Temple                  71    
+11/15/2025 Kansas City             55 Texas                   71    
+11/15/2025 Texas Southern          67 Texas St.               77    
+11/15/2025 Detroit Mercy           83 Toledo                  90    
+11/15/2025 Weber St.               70 UC Irvine               79    
+11/15/2025 North Dakota            76 UC Riverside            74    
+11/15/2025 Idaho                   67 UC San Diego            75    
+11/15/2025 Austin Peay             69 UNC Greensboro          63    
+11/15/2025 USC Upstate             60 UNC Wilmington          73    
+11/15/2025 Missouri St.            49 UT Arlington            67    
+11/15/2025 Sam Houston St.         79 Utah                    85    
+11/15/2025 UTEP                    51 Utah St.                75    
+11/15/2025 Arkansas Pine Bluff     75 Vanderbilt             104    
+11/15/2025 Duquesne                77 Villanova               87    
+11/15/2025 Marshall                78 Virginia               104    
+11/15/2025 Jacksonville            69 VMI                     67    
+11/15/2025 Mercer                  69 Winthrop               105    
+11/15/2025 Radford                 59 Wright St.              92 N   White Sulphur Springs, WV
+11/15/2025 Portland                56 Wyoming                 93    
+11/15/2025 Stony Brook             79 Yale                    86    
+11/16/2025 Lindenwood              65 Alabama A&M             74    
+11/16/2025 Houston                 73 Auburn                  72 n   Birmingham, AL
+11/16/2025 Samford                 84 Central Arkansas        77 1  
+11/16/2025 Mount St. Mary's        55 Cincinnati              72    
+11/16/2025 Radford                 82 Cleveland St.           87 N   White Sulphur Springs, WV
+11/16/2025 Troy                    85 CSUN                    94    
+11/16/2025 Appalachian St.         85 Dartmouth               77    
+11/16/2025 Loyola MD               82 Fairfield               85    
+11/16/2025 Manhattanville          62 Fordham                 96    
+11/16/2025 Hampton                 61 Holy Cross              67 N   Providence, RI
+11/16/2025 Incarnate Word          61 Indiana                 69    
+11/16/2025 South Florida          108 Kennesaw St.            89    
+11/16/2025 Wright St.              72 Kent St.                76 1N  White Sulphur Springs, WV
+11/16/2025 Illinois St.            82 Long Beach St.          80    
+11/16/2025 Colorado St.            80 Loyola Chicago          67    
+11/16/2025 Quinnipiac              70 Maine                   64    
+11/16/2025 Harvard                 56 Marist                  54    
+11/16/2025 Central Connecticut     77 Massachusetts           84    
+11/16/2025 UNLV                    92 Memphis                 78    
+11/16/2025 Florida                 82 Miami FL                68 N   Jacksonville, FL
+11/16/2025 Kentucky Christian      51 Morehead St.           121    
+11/16/2025 Cumberlands             73 Northern Kentucky      101    
+11/16/2025 Notre Dame              63 Ohio St.                64    
+11/16/2025 Texas A&M Corpus Chris  69 Oklahoma St.            85    
+11/16/2025 Akron                   79 Purdue                  97    
+11/16/2025 Presbyterian            62 Sacramento St.          64    
+11/16/2025 Western Michigan        78 South Dakota            83    
+11/16/2025 Loras                   74 Southern Indiana        91    
+11/16/2025 Wagner                  70 UMBC                    71 1  
+11/16/2025 Bryant                  50 Valparaiso              68    
+11/16/2025 Charlotte               76 Virginia Tech           84    
+11/16/2025 UMass Lowell            75 Wake Forest            109    
+11/16/2025 Stetson                 65 Western Carolina        76    
+11/16/2025 Tennessee St.           82 Western Kentucky        95    
+11/17/2025 Georgia St.             62 Arizona St.             75    
+11/17/2025 Drake                   71 Charleston              62    
+11/17/2025 North Alabama           61 Clemson                 81    
+11/17/2025 Alabama St.             66 Colorado                94    
+11/17/2025 Eastern Oregon          73 Eastern Washington      91    
+11/17/2025 Coastal Georgia         63 Florida Atlantic        92    
+11/17/2025 Florida A&M             57 Georgia                 87    
+11/17/2025 Southern Utah           50 Gonzaga                122    
+11/17/2025 Canisius                50 High Point              93    
+11/17/2025 Stonehill               57 Iowa St.                96    
+11/17/2025 Tulsa                   83 Kansas St.              84    
+11/17/2025 Niagara                 68 Le Moyne                74    
+11/17/2025 Carolina                46 Liberty                 98    
+11/17/2025 Lamar                   79 Louisiana Monroe        66    
+11/17/2025 Prairie View A&M        73 Missouri                91    
+11/17/2025 VCU                     79 N.C. State              85    
+11/17/2025 Southern Illinois       85 North Dakota St.        92    
+11/17/2025 Oregon St.              75 Oregon                  87    
+11/17/2025 Saint Joseph's          74 Penn                    83    
+11/17/2025 Bucknell                50 Pittsburgh              84    
+11/17/2025 Cal St. Bakersfield     80 Portland St.            93    
+11/17/2025 Bethesda                56 San Jose St.           110    
+11/17/2025 Colgate                 72 Siena                   69    
+11/17/2025 Peru St.                46 South Dakota St.        94    
+11/17/2025 Angelo St.              54 Tarleton St.            77    
+11/17/2025 Rice                    66 Tennessee               91    
+11/17/2025 West Georgia            61 Tennessee Tech          59    
+11/17/2025 Rhodes                  56 UAB                    112    
+11/17/2025 Loyola Marymount        78 UC Santa Barbara        74 1  
+11/17/2025 Oakland                 83 UCF                     87    
+11/17/2025 Southwestern Adventist  53 UT Rio Grande Valley   110    
+11/17/2025 Lafayette               59 West Virginia           81    
+11/17/2025 Coe                     63 Western Illinois        74    
+11/17/2025 SIUE                    69 Wisconsin               94    
+11/18/2025 Paul Smith's            57 Albany                 106    
+11/18/2025 Winthrop                83 Arkansas                84    
+11/18/2025 Wichita St.             59 Boise St.               62    
+11/18/2025 Hampton                 52 Boston College          63    
+11/18/2025 Holy Cross              49 Brown                   68    
+11/18/2025 Vermont                 90 Buffalo                 94    
+11/18/2025 UC Riverside            57 Cal Baptist             80    
+11/18/2025 Presbyterian            57 California              67    
+11/18/2025 IU Indy                 91 Charleston Southern    103    
+11/18/2025 Boston University       49 Columbia                54    
+11/18/2025 Central Pennsylvania    62 Coppin St.             103    
+11/18/2025 Army                    73 Cornell                 86    
+11/18/2025 Maine Augusta           68 Dartmouth              113    
+11/18/2025 Saint Peter's           70 Delaware                81    
+11/18/2025 Cheyney                 70 Delaware St.            88    
+11/18/2025 Gardner Webb            62 DePaul                  93    
+11/18/2025 Eastern Michigan        72 Detroit Mercy           62    
+11/18/2025 NJIT                    43 Drexel                  75    
+11/18/2025 Kansas                  66 Duke                    78 N   New York, NY
+11/18/2025 UT Arlington            84 Evansville              76    
+11/18/2025 Saint Elizabeth         58 Fairleigh Dickinson    100    
+11/18/2025 Fort Lauderdale         80 FIU                    104    
+11/18/2025 Tennessee Martin        73 Florida St.             87    
+11/18/2025 Stephen F. Austin       78 Fresno St.              80    
+11/18/2025 Jacksonville            57 George Mason            79    
+11/18/2025 Georgia Southern        66 Georgia Tech            68    
+11/18/2025 Princeton               69 Iona                    89    
+11/18/2025 Southeast Missouri      70 Iowa                    99    
+11/18/2025 Towson                  75 James Madison           81    
+11/18/2025 Eastern Kentucky        78 Kent St.                93    
+11/18/2025 Michigan St.            83 Kentucky                66 N   New York, NY
+11/18/2025 Saint Francis           62 Lehigh                  79    
+11/18/2025 Maryland Eastern Shore  83 Longwood                82 2  
+11/18/2025 Alcorn St.              81 LSU                    107    
+11/18/2025 Chicago St.             54 Minnesota               66    
+11/18/2025 Austin Peay             65 Mississippi             72    
+11/18/2025 North Carolina A&T      79 Morgan St.              73    
+11/18/2025 Little Rock             68 Murray St.              89    
+11/18/2025 UC Davis                75 Nevada                  71    
+11/18/2025 Navy                    61 North Carolina          73    
+11/18/2025 Toccoa Falls            67 North Carolina Central 123    
+11/18/2025 Embry Riddle            79 Northern Arizona       108    
+11/18/2025 Northern Illinois       57 Northern Iowa           70    
+11/18/2025 Haskell                 64 Oral Roberts            84    
+11/18/2025 New Orleans             79 Pepperdine              90    
+11/18/2025 New Hampshire           66 Providence              98    
+11/18/2025 American                71 Rutgers                 80    
+11/18/2025 Grambling St.           68 San Diego               78    
+11/18/2025 Troy                   108 San Diego St.          107 2  
+11/18/2025 Northwestern St.        64 San Francisco           84    
+11/18/2025 Idaho St.               55 Santa Clara             64    
+11/18/2025 New Haven               45 Seton Hall              68    
+11/18/2025 Arkansas Pine Bluff     60 SMU                    106    
+11/18/2025 Radford                 58 South Carolina          87    
+11/18/2025 William Carey           59 Southern Miss           82    
+11/18/2025 Louisiana               66 Stanford                93    
+11/18/2025 Monmouth                73 Syracuse                78    
+11/18/2025 Rider                   65 Texas                   99    
+11/18/2025 Montana                 81 Texas A&M               86    
+11/18/2025 Abilene Christian       49 Texas St.               63    
+11/18/2025 Sacramento St.          48 UCLA                    79    
+11/18/2025 East Carolina           60 UNC Wilmington          85    
+11/18/2025 Purdue Fort Wayne       77 Utah                    85    
+11/18/2025 Southwestern Christian  70 UTSA                   103    
+11/18/2025 Southern                93 Washington              99 2  
+11/18/2025 Bethel TN               67 Western Kentucky        97    
+11/18/2025 Old Dominion            69 Xavier                  99    
+11/18/2025 Rhode Island            86 Yale                    77    
+11/19/2025 Alabama St.             64 Air Force               66    
+11/19/2025 Jackson St.             66 Auburn                 112    
+11/19/2025 Lipscomb                68 Belmont                 75    
+11/19/2025 Misericordia            58 Binghamton              69    
+11/19/2025 William & Mary          82 Bowling Green           74    
+11/19/2025 UMass Lowell            77 Bradley                 87    
+11/19/2025 Valparaiso              90 Cleveland St.           75    
+11/19/2025 Arizona                 71 Connecticut             67    
+11/19/2025 North Dakota            60 Creighton               75    
+11/19/2025 Loyola MD               78 Duquesne                92    
+11/19/2025 Dallas Christian        44 East Texas A&M         115    
+11/19/2025 Tiffin                  50 Eastern Illinois        62    
+11/19/2025 Ohio Christian          44 Furman                  79    
+11/19/2025 UMBC                    52 George Washington       89    
+11/19/2025 Alabama                 90 Illinois                86 n   Chicago, IL
+11/19/2025 Louisiana Tech          51 Indiana St.             60    
+11/19/2025 South Alabama           71 Jacksonville St.        65    
+11/19/2025 Villanova               70 La Salle                55    
+11/19/2025 Nobel                   54 Long Beach St.          87    
+11/19/2025 Dayton                  77 Marquette               71 1  
+11/19/2025 Mount St. Mary's        90 Maryland                95 1  
+11/19/2025 Maine                   65 Merrimack               72    
+11/19/2025 Middle Tennessee        61 Michigan                86    
+11/19/2025 Concordia NE            80 Nebraska Omaha          96    
+11/19/2025 Jamestown               67 North Dakota St.        82    
+11/19/2025 Bellarmine              79 Notre Dame              86    
+11/19/2025 Bethune Cookman         76 Ohio                    73    
+11/19/2025 South Florida           95 Oklahoma St.           103    
+11/19/2025 Harvard                 80 Penn St.                84    
+11/19/2025 Evergreen St.           61 Portland St.            90    
+11/19/2025 City College of New Yo  52 Quinnipiac             112    
+11/19/2025 VMI                     54 Richmond                87    
+11/19/2025 Arkansas St.            72 Saint Mary's            85    
+11/19/2025 Wyoming                 70 Sam Houston St.         78    
+11/19/2025 Florida Gulf Coast      77 Samford                 62    
+11/19/2025 Chattanooga             78 South Carolina St.      66    
+11/19/2025 William Carey           45 Southeastern Louisiana  71    
+11/19/2025 Howard                  60 Stetson                 64    
+11/19/2025 Kansas City             45 TCU                     81    
+11/19/2025 Hofstra                 76 Temple                  81    
+11/19/2025 North Greenville        57 The Citadel             70    
+11/19/2025 Youngstown St.          75 Toledo                  92    
+11/19/2025 Tennessee Tech          88 USC Upstate             84    
+11/19/2025 UC Irvine               72 Utah Valley             79    
+11/19/2025 St. Thomas TX           83 UTEP                    84 1  
+11/19/2025 Bryant                  61 Virginia Tech           78    
+11/19/2025 Southern Utah           74 Washington St.          98    
+11/19/2025 Campbell                85 Weber St.               91    
+11/19/2025 UNC Asheville           73 Western Carolina        80    
+11/19/2025 North Florida           78 Wofford                 86    
+11/20/2025 Northern Kentucky       90 Central Michigan        66    
+11/20/2025 Colgate                 94 Cornell                 95 2  
+11/20/2025 Kean                    64 Delaware St.            66    
+11/20/2025 Pacific                 59 Florida Atlantic        82    
+11/20/2025 LIU                     53 Fordham                 69    
+11/20/2025 Arizona St.             83 Hawaii                  76    
+11/20/2025 Illinois Chicago        80 High Point              90 N   Daytona Beach, FL
+11/20/2025 Rider                   45 Houston                 91    
+11/20/2025 Biblical Studies        67 Houston Christian       85    
+11/20/2025 Rockford                48 Illinois St.            93    
+11/20/2025 Lindenwood              53 Indiana                 73    
+11/20/2025 Chicago St.             54 Iowa                    93    
+11/20/2025 Mississippi St.         77 Kansas St.              98 n   Kansas City, MO
+11/20/2025 Arkansas Pine Bluff     70 Marshall                98    
+11/20/2025 Purdue                  80 Memphis                 71 N   Nassau, Bahamas
+11/20/2025 Elon                    72 Miami FL                99    
+11/20/2025 Mercyhurst              71 Miami OH                76    
+11/20/2025 South Dakota            68 Missouri               102    
+11/20/2025 Nobel                   55 Montana St.             92 N   Long Beach, CA
+11/20/2025 Nebraska                84 New Mexico              72 N   Kansas City, MO
+11/20/2025 Central Arkansas        56 North Texas             74    
+11/20/2025 Western Michigan        58 Ohio St.                91    
+11/20/2025 Oral Roberts            71 Oklahoma                95    
+11/20/2025 Northeastern            57 Princeton               70    
+11/20/2025 UNC Greensboro          94 Queens                 101    
+11/20/2025 Tarleton St.            90 Rice                    74    
+11/20/2025 Incarnate Word          87 Southern Indiana        81 N   Daytona Beach, FL
+11/20/2025 Robert Morris           61 St. Bonaventure         75    
+11/20/2025 Bucknell                49 St. John's              97    
+11/20/2025 Brown                   70 Stony Brook             80    
+11/20/2025 Tennessee St.           60 Tennessee               89    
+11/20/2025 Wake Forest             83 Texas Tech              84 N   Nassau, Bahamas
+11/20/2025 Pittsburgh              67 UCF                     77 n   Daytona Beach, FL
+11/20/2025 Saint Joseph's          85 UNLV                    99    
+11/20/2025 Troy                   106 USC                    107 3  
+11/20/2025 Cal Poly                92 Utah                    85    
+11/20/2025 Texas Southern          74 Vanderbilt             109    
+11/20/2025 Ohio Wesleyan           47 Wright St.             100    
+11/21/2025 SIUE                    63 Air Force               77    
+11/21/2025 Iona                    75 Akron                   96 N   St. Thomas, VI
+11/21/2025 Charlotte               63 Appalachian St.         65    
+11/21/2025 Jackson St.             61 Arkansas               115    
+11/21/2025 Fisk                    49 Belmont                 96    
+11/21/2025 Davidson                59 Boston College          49 N   Charleston, SC
+11/21/2025 Wisconsin               70 BYU                     98 n   Salt Lake City, UT
+11/21/2025 Grambling St.           59 Cal Baptist             72    
+11/21/2025 Sacramento St.          67 California              91    
+11/21/2025 Maryland Eastern Shore  57 Canisius                60    
+11/21/2025 Massachusetts           65 Charleston              69 N   St. Thomas, VI
+11/21/2025 Louisville              74 Cincinnati              64 n   Cincinnati, OH
+11/21/2025 West Virginia           67 Clemson                 70 N   Charleston, SC
+11/21/2025 UC Davis                79 Colorado                95    
+11/21/2025 Denver                  83 Colorado St.            81    
+11/21/2025 Buena Vista             52 Drake                   98    
+11/21/2025 Penn                    84 Drexel                  68    
+11/21/2025 Niagara                 42 Duke                   100    
+11/21/2025 Charleston Southern     77 East Carolina           65    
+11/21/2025 Morehead St.            62 East Tennessee St.      77    
+11/21/2025 Oakland                 91 Eastern Michigan        97    
+11/21/2025 Merrimack               45 Florida                 80    
+11/21/2025 Georgia Southern        72 Florida St.             98    
+11/21/2025 New Orleans             76 Fresno St.              85    
+11/21/2025 Northwestern St.        72 Grand Canyon            85    
+11/21/2025 Justice                 51 Idaho St.               89    
+11/21/2025 Alabama St.            101 IU Indy                 80 N   Colorado Springs, CO
+11/21/2025 Nebraska                86 Kansas St.              85 N   Kansas City, MO
+11/21/2025 Loyola MD               46 Kentucky                88    
+11/21/2025 Columbia                82 Lehigh                  67    
+11/21/2025 Montana St.             78 Long Beach St.          72    
+11/21/2025 Northern Illinois       76 Loyola Chicago          59    
+11/21/2025 Nebraska Omaha          73 LSU                     99    
+11/21/2025 Army                    65 Marist                  76    
+11/21/2025 Detroit Mercy           56 Michigan St.            84    
+11/21/2025 New Mexico              80 Mississippi St.         78 N   Kansas City, MO
+11/21/2025 Samford                 72 New Mexico St.          81    
+11/21/2025 Hampton                 60 Norfolk St.             62    
+11/21/2025 St. Thomas              73 Northern Colorado       72 N   Portland, OR
+11/21/2025 Morgan St.              56 Old Dominion            88    
+11/21/2025 Evansville              73 Oregon St.              69 N   St. Thomas, VI
+11/21/2025 Stephen F. Austin       63 Pepperdine              60    
+11/21/2025 Cal St. Fullerton       85 Portland               103    
+11/21/2025 UNC Wilmington          81 Radford                 73    
+11/21/2025 Central Connecticut     67 Rutgers                 54    
+11/21/2025 Holy Cross              66 Sacred Heart            79    
+11/21/2025 Purdue Fort Wayne       60 Saint Louis             91    
+11/21/2025 UC Riverside            85 San Diego               71    
+11/21/2025 Southern                66 San Jose St.            80    
+11/21/2025 Louisiana               43 Santa Clara             80    
+11/21/2025 Albany                  63 Siena                   73    
+11/21/2025 Arkansas St.            69 SMU                    100    
+11/21/2025 Butler                  79 South Carolina          72 N   White Sulphur Springs, WV
+11/21/2025 Georgia St.             58 South Dakota St.       105    
+11/21/2025 Seattle                 77 Stanford                69    
+11/21/2025 Lafayette               70 Stonehill               74    
+11/21/2025 Manhattan               68 Texas A&M              109    
+11/21/2025 Little Rock             56 Texas St.               65    
+11/21/2025 Purdue                  86 Texas Tech              56 N   Nassau, Bahamas
+11/21/2025 Utah St.                96 Tulane                  75 N   Charleston, SC
+11/21/2025 Austin Peay             75 Tulsa                   84    
+11/21/2025 South Alabama           72 UAB                     80    
+11/21/2025 Presbyterian            46 UCLA                    86    
+11/21/2025 Campbell                71 UT Arlington            67 N   Ogden, UT
+11/21/2025 Nobel                   48 Utah Tech               96    
+11/21/2025 Northwestern            78 Virginia                83 N   White Sulphur Springs, WV
+11/21/2025 Memphis                 68 Wake Forest             69 N   Nassau, Bahamas
+11/21/2025 USC Upstate             64 West Georgia            72    
+11/21/2025 Coastal Carolina        84 Western Illinois        64    
+11/21/2025 Regent                  57 William & Mary         104    
+11/21/2025 Erskine                 57 Wofford                 81    
+11/21/2025 Georgia                 78 Xavier                  77 N   Charleston, SC
+11/21/2025 Green Bay               67 Yale                    73 N   St. Thomas, VI
+11/22/2025 Maryland Eastern Shore  63 Binghamton              52 N   Buffalo, NY
+11/22/2025 Mississippi Valley St.  70 Cal St. Bakersfield     86    
+11/22/2025 St. Thomas              80 Cal St. Fullerton       88 N   Portland, OR
+11/22/2025 North Alabama           57 Chattanooga             71    
+11/22/2025 North Carolina Central  55 Dayton                  74    
+11/22/2025 Mercer                  95 Eastern Kentucky        83    
+11/22/2025 Wagner                  75 Georgetown              92    
+11/22/2025 Boston University       75 Harvard                 74 N   Uncasville, CT
+11/22/2025 Incarnate Word          80 High Point              91 N   Daytona Beach, FL
+11/22/2025 Niagara                 70 Howard                  80 N   Durham, NC
+11/22/2025 Eastern Oregon          68 Idaho                   97    
+11/22/2025 LIU                     58 Illinois                98    
+11/22/2025 Southern Indiana        73 Illinois Chicago        84 N   Daytona Beach, FL
+11/22/2025 Ball St.                52 Indiana St.             70    
+11/22/2025 Cleveland St.           71 Kent St.                91    
+11/22/2025 Lancaster Bible         46 La Salle                75    
+11/22/2025 Fairfield               97 Le Moyne                83    
+11/22/2025 Western Carolina        62 Lipscomb                83    
+11/22/2025 Morehead St.            83 Louisiana Monroe        80 N   Johnson City, TN
+11/22/2025 Central Michigan        71 Marquette               85    
+11/22/2025 Green Bay               79 Massachusetts           75 N   St. Thomas, VI
+11/22/2025 San Francisco           77 Minnesota               65 n   Sioux Falls, SD
+11/22/2025 UT Rio Grande Valley    67 Missouri St.            74    
+11/22/2025 NJIT                    70 Navy                    86    
+11/22/2025 UC Santa Barbara        64 Nevada                  77    
+11/22/2025 Vermont St. Lyndon      51 New Haven              122    
+11/22/2025 Coastal Carolina        75 North Dakota            58 N   Macomb, IL
+11/22/2025 Southern Miss           92 North Florida           83 N   Pensacola, FL
+11/22/2025 Duquesne                86 Northeastern            93 N   Akron, OH
+11/22/2025 Nicholls                81 Oklahoma St.            95    
+11/22/2025 Iona                    91 Oregon St.              84 2N  St. Thomas, VI
+11/22/2025 Northern Colorado       86 Portland                80 1  
+11/22/2025 Tennessee Martin        69 Prairie View A&M        68 N   Pensacola, FL
+11/22/2025 Penn St.                65 Providence              77 N   Uncasville, CT
+11/22/2025 Gardner Webb            67 Richmond               102    
+11/22/2025 UC Merced               42 Saint Mary's            96    
+11/22/2025 UMass Lowell            66 Saint Peter's           68    
+11/22/2025 Schreiner               54 Sam Houston St.        105    
+11/22/2025 Nobel                   68 Southern Utah          103    
+11/22/2025 VMI                     80 Stetson                 99    
+11/22/2025 Howard Payne            75 Texas A&M Corpus Chris 122    
+11/22/2025 Northern Iowa           70 UC Irvine               69 1  
+11/22/2025 Coppin St.              58 VCU                    101    
+11/22/2025 UT Arlington            74 Weber St.               73    
+11/22/2025 Milwaukee               58 Wichita St.             75    
+11/23/2025 IU Indy                 85 Air Force               98    
+11/23/2025 Tulane                  93 Boston College          90 1N  Charleston, SC
+11/23/2025 Virginia                73 Butler                  80 N   White Sulphur Springs, WV
+11/23/2025 Northern Colorado       97 Cal St. Fullerton       93 N   Portland, OR
+11/23/2025 Binghamton              66 Canisius                75    
+11/23/2025 Eastern Washington      65 Central Arkansas        92    
+11/23/2025 Yale                    74 Charleston              63 N   St. Thomas, VI
+11/23/2025 Shaw                    79 Charlotte               83    
+11/23/2025 Longwood                70 Columbia                95    
+11/23/2025 Bryant                  49 Connecticut             72    
+11/23/2025 Utah St.                94 Davidson                60 N   Charleston, SC
+11/23/2025 Detroit Mercy           75 DePaul                  95    
+11/23/2025 Old Dominion            71 Drexel                  75    
+11/23/2025 Howard                  56 Duke                    93    
+11/23/2025 Louisiana Monroe        55 East Tennessee St.      97    
+11/23/2025 Akron                   97 Evansville              59 N   St. Thomas, VI
+11/23/2025 Queens                  79 Furman                  90    
+11/23/2025 Clemson                 97 Georgia                 94 1N  Charleston, SC
+11/23/2025 West Georgia            66 Georgia Tech            82    
+11/23/2025 Coastal Carolina        42 Illinois St.            94    
+11/23/2025 Winthrop                80 Jackson St.             62    
+11/23/2025 Brown                   58 Maine                   53    
+11/23/2025 Mercyhurst              60 Marshall                69    
+11/23/2025 George Washington       86 McNeese                 92 N   George Town, Cayman Islands
+11/23/2025 Delaware St.            41 Miami FL                97    
+11/23/2025 Arkansas Pine Bluff     84 Miami OH               111    
+11/23/2025 Robert Morris           70 Monmouth                71 1  
+11/23/2025 Lamar                   68 Montana                 63    
+11/23/2025 Middle Tennessee        90 Murray St.              87 N   George Town, Cayman Islands
+11/23/2025 Prairie View A&M        85 North Florida           82 N   Pensacola, FL
+11/23/2025 South Carolina          77 Northwestern            79 N   White Sulphur Springs, WV
+11/23/2025 Alcorn St.              53 Oklahoma                72    
+11/23/2025 Quinnipiac              83 Pittsburgh              75    
+11/23/2025 St. Thomas              76 Portland                66    
+11/23/2025 Alabama St.             68 SIUE                    83 N   Colorado Springs, CO
+11/23/2025 South Carolina St.      81 South Dakota            82    
+11/23/2025 Delaware                59 Southern Illinois       79 N   Jacksonville, FL
+11/23/2025 Tennessee Martin        60 Southern Miss           70 N   Pensacola, FL
+11/23/2025 Youngstown St.          62 UNC Greensboro          68 N   Jacksonville, FL
+11/23/2025 North Dakota            78 Western Illinois        69    
+11/23/2025 Mount St. Mary's        60 Western Michigan        83    
+11/23/2025 Norfolk St.             67 Wyoming                 75    
+11/23/2025 West Virginia           68 Xavier                  78 N   Charleston, SC
+11/24/2025 Yale                    97 Akron                   94 N   St. Thomas, VI
+11/24/2025 Gonzaga                 95 Alabama                 85 N   Las Vegas, NV
+11/24/2025 Marywood                53 American               113    
+11/24/2025 Elon                    88 Appalachian St.         53    
+11/24/2025 Denver                  73 Arizona                103    
+11/24/2025 Jacksonville St.        63 Arkansas St.            74    
+11/24/2025 Creighton               74 Baylor                  81 N   Las Vegas, NV
+11/24/2025 USC                     70 Boise St.               67 N   Lahaina, HI
+11/24/2025 Princeton               64 Bradley                 88 N   Kissimmee, FL
+11/24/2025 Bowling Green           71 Bucknell                66 N   Fort Myers, FL
+11/24/2025 Sacred Heart           106 Central Connecticut    108 1  
+11/24/2025 Washington St.          90 Chaminade               85    
+11/24/2025 NJIT                    67 Cincinnati              94    
+11/24/2025 Charleston              78 Evansville              59 N   St. Thomas, VI
+11/24/2025 East Texas A&M          70 Fairleigh Dickinson     65    
+11/24/2025 James Madison           80 FIU                     72    
+11/24/2025 Loyola Marymount        65 Florida Atlantic        76 N   Daytona Beach, FL
+11/24/2025 Oral Roberts            88 Florida Gulf Coast      92    
+11/24/2025 Ohio                    69 George Mason            92 N   Daytona Beach, FL
+11/24/2025 Middle Tennessee        79 George Washington       92 N   George Town, Cayman Islands
+11/24/2025 Youngstown St.          67 Georgia Southern        61 N   Jacksonville, FL
+11/24/2025 Hawaii Pacific          76 Hawaii                  88    
+11/24/2025 Siena                   73 Holy Cross              69    
+11/24/2025 UT Rio Grande Valley    73 Illinois                87    
+11/24/2025 Green Bay               80 Iona                    75 N   St. Thomas, VI
+11/24/2025 St. John's              82 Iowa St.                83 N   Las Vegas, NV
+11/24/2025 Bethune Cookman         64 Jacksonville            69 N   Daytona Beach, FL
+11/24/2025 Notre Dame              61 Kansas                  71 N   Las Vegas, NV
+11/24/2025 Oakland                 83 Lamar                   68 N   Missoula, MT
+11/24/2025 Kansas City             67 Lindenwood              80    
+11/24/2025 Eastern Michigan        46 Louisville              87    
+11/24/2025 Murray St.              60 McNeese                 73 N   George Town, Cayman Islands
+11/24/2025 San Diego St.           54 Michigan                94 N   Las Vegas, NV
+11/24/2025 New Orleans             78 Mississippi St.         81 1  
+11/24/2025 LIU                     75 Missouri St.            61    
+11/24/2025 Seton Hall              85 N.C. State              74 N   Lahaina, HI
+11/24/2025 Cal Poly                87 Northern Arizona        93    
+11/24/2025 Eastern Kentucky        71 Northern Kentucky       82    
+11/24/2025 Auburn                  84 Oregon                  73 N   Las Vegas, NV
+11/24/2025 Massachusetts           73 Oregon St.              65 N   St. Thomas, VI
+11/24/2025 Stony Brook             58 Pacific                 86 N   Daytona Beach, FL
+11/24/2025 Towson                  62 Rhode Island            55 N   Kissimmee, FL
+11/24/2025 Kennesaw St.            89 Rice                    84 1N  Fort Myers, FL
+11/24/2025 Belmont                 94 Saint Francis           57 N   Fort Myers, FL
+11/24/2025 Radford                 72 SMU                     89    
+11/24/2025 Houston                 78 Syracuse                74 1N  Las Vegas, NV
+11/24/2025 Rutgers                 60 Tennessee               85 N   Las Vegas, NV
+11/24/2025 Arizona St.             87 Texas                   86 N   Lahaina, HI
+11/24/2025 Texas Lutheran          41 Texas St.               93    
+11/24/2025 Bellarmine              70 The Citadel             58    
+11/24/2025 Troy                    68 Toledo                  75 N   Fort Myers, FL
+11/24/2025 Southern Illinois       73 UAB                     81 N   Jacksonville, FL
+11/24/2025 Louisiana               56 UC Davis                77    
+11/24/2025 Grambling St.           74 UC Riverside            83    
+11/24/2025 Temple                  76 UC San Diego            91 N   Kissimmee, FL
+11/24/2025 Nobel                   49 UC Santa Barbara        84    
+11/24/2025 Notre Dame MD           52 UMBC                   102    
+11/24/2025 Maryland                74 UNLV                    67 n   Las Vegas, NV
+11/24/2025 William & Mary          74 UTEP                    63 N   Jacksonville, FL
+11/24/2025 Abilene Christian       61 UTSA                    50 N   Jacksonville, FL
+11/24/2025 Liberty                 79 Vermont                 73 N   Kissimmee, FL
+11/24/2025 Buffalo                 78 VMI                     70 N   Fort Myers, FL
