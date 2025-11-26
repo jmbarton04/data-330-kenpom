@@ -1,0 +1,41 @@
+name: KenPom Daily Logger
+
+on:
+  schedule:
+    - cron: "0 17 * * *"   # runs every day at noon EST
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update_kenpom:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+      
+      - name: Set up R
+        uses: r-lib/actions/setup-r@v2
+        with:
+          use-public-rspm: true
+      
+      - name: Install R dependencies
+        uses: r-lib/actions/setup-r-dependencies@v2
+        with:
+          packages: |
+            any::tidyverse
+            any::stringr
+            any::lubridate
+      
+      - name: Run KenPom script
+        run: Rscript kenpom_daily.R
+      
+      - name: Commit updated CSV
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git add data/
+          git diff --staged --quiet || git commit -m "Auto update: $(date)"
+          git push
